@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Bitcoin DevOps - misc</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2020-01-30T00:00:00+01:00</updated><entry><title>What is this about?</title><link href="/what-is-this-about.html" rel="alternate"></link><published>2020-01-30T00:00:00+01:00</published><updated>2020-01-30T00:00:00+01:00</updated><author><name>Kim</name></author><id>tag:None,2020-01-30:/what-is-this-about.html</id><summary type="html">&lt;h1&gt;Devops for Bitcoin&lt;/h1&gt;
-&lt;p&gt;I've worked the last 10 years for a large scale software-vendor on devOps and SRE topuics.
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Bitcoin DevOps - misc</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2020-01-30T00:00:00+01:00</updated><entry><title>Devops for Bitcoin</title><link href="/devops-for-bitcoin.html" rel="alternate"></link><published>2020-01-30T00:00:00+01:00</published><updated>2020-01-30T00:00:00+01:00</updated><author><name>Kim</name></author><id>tag:None,2020-01-30:/devops-for-bitcoin.html</id><summary type="html">&lt;p&gt;I've worked the last 10 years for a large scale software-vendor on devOps and SRE topuics.
 Now i want to bring that knowledge to the bitcoin ecosystem!&lt;/p&gt;
 &lt;p&gt;Do you need Continuous-Delivery, devOps or SRE?
-Do you struggle to get your product out of the door, have software-quality-issues …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Devops for Bitcoin&lt;/h1&gt;
-&lt;p&gt;I've worked the last 10 years for a large scale software-vendor on devOps and SRE topuics.
+Do you struggle to get your product out of the door, have software-quality-issues or need help …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I've worked the last 10 years for a large scale software-vendor on devOps and SRE topuics.
 Now i want to bring that knowledge to the bitcoin ecosystem!&lt;/p&gt;
 &lt;p&gt;Do you need Continuous-Delivery, devOps or SRE?
 Do you struggle to get your product out of the door, have software-quality-issues or need help with Raising uptime, scaling out or build up your 24/7 support?&lt;/p&gt;
